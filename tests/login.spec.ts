@@ -15,6 +15,18 @@ test(`Login into Quickly app by reading data from JSON ${data.testCaseID},${data
   await page.waitForTimeout(5000);
   await loginPage.navigateToDevZone();
   await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
+  await page.waitForTimeout(5000);
 })
 }
 
