@@ -1,0 +1,14 @@
+[
+    {
+        "testCaseID": "TC001",
+        "description": "Valid Login",
+        "username": "lakshmanan.rajagopal@bostonharborconsulting.com.vendavo",
+        "password": "quickly@123"
+    },
+    {
+        "testCaseID": "TC002",
+        "description": "Invalid Login",
+        "username": "madhakumar.vanaraj@bostonharborconsulting.com.payroll",
+        "password": "Vodfone^123"
+    }
+]

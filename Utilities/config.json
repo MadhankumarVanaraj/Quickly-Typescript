@@ -1,0 +1,34 @@
+[
+  {
+    "baseUrl": "https://login.quickly.app/account/login"
+  },
+  {
+    "CreateNewPage1": {
+      "Name": "SeleniumAlpha",
+      "APIName": "SeleniumAlphaAPI"
+    }
+  },
+  {
+    "CreateNewPage2": {
+      "Name": "SeleniumBeta",
+      "APIName": "SeleniumBetaAPI"
+    }
+  },
+  {
+    "SelectObject": {
+      "ObjectName": "ITAsset"
+    }
+  },
+  {
+    "MenuCreation": {
+      "MenuName": "Cypress",
+      "MenuAPIName": "CypressAPI"
+    }
+  },
+  {
+    "AppCreation": {
+      "AppName": "Cypress Automation",
+      "AppAPIName": "Cypress Automation_API"
+    }
+  }
+]
